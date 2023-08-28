@@ -65,3 +65,7 @@ input[type="button"] {
     display: flex;
     justify-content: center;
 }
+
+#age{
+    text-align: center;
+}
